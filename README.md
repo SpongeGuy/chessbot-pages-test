@@ -1,0 +1,1 @@
+# chessbot-pages-test
